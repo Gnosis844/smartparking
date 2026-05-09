@@ -1,3 +1,4 @@
+HEAD
 # 🚗 Smart Parking Management System (IoT-SPMS)
 
 Hệ thống quản lý bãi xe thông minh dành cho nhân viên vận hành - **MVP Demo Version**
@@ -238,3 +239,6 @@ Dự án giáo dục - HCMUT © 2026
 **Để bắt đầu, đọc [SETUP.md](./SETUP.md) 📖**
 
 **Demo thành công! 🚀**
+=======
+# smartparking
+7e894a5308be84d4e1b0111281ee34d974c5e93f
